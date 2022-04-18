@@ -1,6 +1,6 @@
 {
-  "name": "@git-alp/hello-world",
-  "version": "0.0.20",
+  "name": "@git-Alp/hello-world",
+  "version": "0.0.21",
   "description": "> TODO: description",
   "author": "Alperen Aslan <alperen.aslan@windowslive.com>",
   "homepage": "https://github.com/git-Alp/learna#readme",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/git-Alp/learna/issues"
   },
-  "gitHead": "4c25bf98a88d959047598388c58905d9dfe492d1"
+  "gitHead": "6264921fc4ac4f0760b4a7008305b0c400bc7adc"
 }
