@@ -1,6 +1,6 @@
 {
-  "name": "@git-alp/aloha-world",
-  "version": "0.0.5",
+  "name": "aloha-world",
+  "version": "0.0.6",
   "description": "> TODO: description",
   "author": "Alperen Aslan <alperen.aslan@windowslive.com>",
   "homepage": "https://github.com/git-Alp/learna#readme",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/git-Alp/learna/issues"
   },
-  "gitHead": "ba5b30b74f2c2d0e525a28b3262ee9b928c90ea1"
+  "gitHead": "5186aab8aa09b918a4f920a9a95b021e5caa0994"
 }
