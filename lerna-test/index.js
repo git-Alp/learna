@@ -1,4 +1,4 @@
-const helloWorld = require('@aspectom/hello-world');
-const alohaWorld = require('@aspectom/aloha-world');
+const helloWorld = require('@git-Alp/hello-world');
+const alohaWorld = require('@git-Alp/aloha-world');
 helloWorld();
 alohaWorld();

@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@git-Alp/aloha-world": "^0.0.4",
-    "@git-Alp/hello-world": "^0.0.4"
+    "@git-Alp/aloha-world": "^0.0.22",
+    "@git-Alp/hello-world": "^0.0.22"
   }
- }
+}

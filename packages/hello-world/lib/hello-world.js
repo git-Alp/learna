@@ -3,5 +3,5 @@
 module.exports = helloWorld;
 
 function helloWorld() {
-    // TODO
+    console.log('Hello World');
 }
